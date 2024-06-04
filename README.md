@@ -1,23 +1,32 @@
 # PbMaioDes1_GuilhermeGabrielGS
 
 ## Descrição do Projeto
-(Coloque uma breve descrição do projeto aqui.)
+- Este projeto busca implementar uma função em Node.js que gera sequências de bolas coloridas com pesos específicos, grava essas sequências em um arquivo chamado resultado.txt e, em seguida, lê o arquivo para contar e exibir a quantidade de vezes que cada cor de bola aparece.
 
 ## Pré-requisitos
-(Indique os pré-requisitos necessários para executar o projeto, como versões de software, bibliotecas, etc.)
-
-- Exemplo: Node.js v14.17.0
-- Exemplo: NPM v6.14.13
+- Exemplo: Node.js v20.14.0
+- Exemplo: NPM v10.7.0
 
 ## Instalação
-(Forneça instruções detalhadas de instalação.)
-
-```bash
-# Clone este repositório
-git clone https://github.com/seuusuario/PbMaioDes1_SeuNome.git
+1- Git clone https://github.com/guilhermeswarowskiPbMaioDes1_GuilhermeGabrielGS.git
 
 # Acesse a pasta do projeto
-cd PbMaioDes1_SeuNome
+2- cd PbMaioDes1_GuilhermeGabrielGS
 
 # Instale as dependências
-npm install
+3- npm install
+
+## Como Executar o Projeto:
+- Execute o script principal, que fara com que gere as sequências e grave no arquivo "resultado.txt"
+- Após a geração do arquivo "resultado.txt", o script exibirá no console a quantidade de vezes que cada cor de bola apareceu.
+  
+# script
+- node gerar_sequencias.js
+  
+## Detalhes do Projeto
+O projeto consiste em um script Node.js que realiza as seguintes tarefas:
+1. Define as bolas disponíveis com suas respectivas cores e pesos.
+2. Utiliza uma função para escolher 4 bolas com base em seus pesos e formar uma sequência.
+3. Repete o processo 1000 vezes, gravando cada sequência em uma nova linha do arquivo `resultado.txt`.
+4. Lê o arquivo `resultado.txt` e conta quantas vezes cada cor de bola apareceu.
+5. Exibe os resultados no console.
