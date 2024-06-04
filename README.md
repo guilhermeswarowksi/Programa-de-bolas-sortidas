@@ -20,9 +20,6 @@
 - Execute o script principal, que fara com que gere as sequências e grave no arquivo resultado.txt
 - Após a geração do arquivo resultado.txt, o script exibirá no console a quantidade de vezes que cada cor de bola apareceu.
   
-# script
-- node gerar_sequencias.js
-  
 ## Detalhes do Projeto
 O projeto consiste em um script Node.js que realiza as seguintes tarefas:
 1. Define as bolas disponíveis com suas respectivas cores e pesos.
@@ -30,3 +27,7 @@ O projeto consiste em um script Node.js que realiza as seguintes tarefas:
 3. Repete o processo 1000 vezes, gravando cada sequência em uma nova linha do arquivo `resultado.txt`.
 4. Lê o arquivo `resultado.txt` e conta quantas vezes cada cor de bola apareceu.
 5. Exibe os resultados no console.
+   
+# script
+- node gerar_sequencias.js
+  
