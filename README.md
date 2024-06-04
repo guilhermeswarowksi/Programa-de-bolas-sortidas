@@ -17,8 +17,8 @@
 3- npm install
 
 ## Como Executar o Projeto:
-- Execute o script principal, que fara com que gere as sequências e grave no arquivo "resultado.txt"
-- Após a geração do arquivo "resultado.txt", o script exibirá no console a quantidade de vezes que cada cor de bola apareceu.
+- Execute o script principal, que fara com que gere as sequências e grave no arquivo resultado.txt
+- Após a geração do arquivo resultado.txt, o script exibirá no console a quantidade de vezes que cada cor de bola apareceu.
   
 # script
 - node gerar_sequencias.js
