@@ -11,7 +11,7 @@
 1- Git clone https://github.com/guilhermeswarowksi/PbMaioDes1_GuilhermeGabrielGS
 
 # Acesse a pasta do projeto
-2- cd PbMaioDes1_GuilhermeGabrielGS
+2- cd desafio-1
 
 # Instale as dependências
 3- npm install
