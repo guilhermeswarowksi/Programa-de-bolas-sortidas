@@ -8,7 +8,7 @@
 - Exemplo: NPM v10.7.0
 
 ## Instalação
-1- Git clone https://github.com/guilhermeswarowskiPbMaioDes1_GuilhermeGabrielGS.git
+1- Git clone https://github.com/guilhermeswarowksi/PbMaioDes1_GuilhermeGabrielGS
 
 # Acesse a pasta do projeto
 2- cd PbMaioDes1_GuilhermeGabrielGS
