@@ -4,8 +4,8 @@
 - Este projeto busca implementar uma função em Node.js que gera sequências de bolas coloridas com pesos específicos, grava essas sequências em um arquivo chamado resultado.txt e, em seguida, lê o arquivo para contar e exibir a quantidade de vezes que cada cor de bola aparece.
 
 ## Pré-requisitos
-- Exemplo: Node.js v20.14.0
-- Exemplo: NPM v10.7.0
+- Node.js v20.14.0
+- NPM v10.7.0
 
 ## Instalação
 1- Git clone https://github.com/guilhermeswarowksi/PbMaioDes1_GuilhermeGabrielGS
